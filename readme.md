@@ -8,7 +8,7 @@ This project focuses on applying data analytics techniques to the sales domain. 
 
 ### Page 1: Interactive Sales Dashboard (Executive Overview & Trends)
 
-![Dashboard Page 1](images/image1.png)
+![Dashboard Page 1](image1.png)
 
 This comprehensive dashboard provides a high-level executive summary of sales performance. It prominently displays key performance indicators (KPIs) such as **Total Revenue**, **Total Profit**, **Profit Margin %**, **Total Orders**, and **Revenue per order**, offering an immediate snapshot of business health. Furthermore, it includes detailed visualizations like:
 
@@ -19,7 +19,7 @@ This comprehensive dashboard provides a high-level executive summary of sales pe
 
 ### Page 2: Product & Channel Performance Dashboard:
 
-![Dashboard Page 1](images/image2.png)
+![Dashboard Page 1](image2.png)
 
 This dashboard provides granular insights into how products and sales channels are performing. It helps in identifying what's working and where improvements can be made:
 
@@ -32,7 +32,7 @@ This dashboard provides granular insights into how products and sales channels a
 
 ### Page 3: Geographic & Customer Insights Dashboard:
 
-![Dashboard Page 1](images/image3.png)
+![Dashboard Page 1](image3.png)
 
 This section offers a deep dive into sales performance based on geographic regions and individual customer contributions, providing actionable insights for targeted strategies:
 
